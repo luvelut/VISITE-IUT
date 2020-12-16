@@ -1,6 +1,8 @@
 # VISITE-IUT
 Visite virtuelle de l'IUT de Clermont-Ferrand   (2020)
 
+__projet en cours de réalisation__
+
 ## PRESENTATION ET CONTEXTE
 
 Notre projet vise à permettre une visite virtuelle de l’IUT de Clermont-Ferrand (site d’Aubière) ainsi qu’à créer un générateur de panoramas.  
