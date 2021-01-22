@@ -1,7 +1,5 @@
 # VISITE-IUT
-Visite virtuelle de l'IUT de Clermont-Ferrand   (2020)
-
-__projet en cours de réalisation__
+Visite virtuelle de l'IUT de Clermont-Ferrand   (2021)
 
 ## PRESENTATION ET CONTEXTE
 
@@ -22,10 +20,16 @@ Ce projet sera réalisé grâce au Framework A-Frame qui permet de créer du con
  La seconde partie consistera à l’élaboration d’un générateur de panoramas en ligne. Ce générateur permettra à l’utilisateur de charger ses photos afin de construire ses propres scènes. Il pourra ensuite choisir l’enchainement des photos ainsi qu’éditer ses scènes en ajoutant des panneaux informatifs et les points de navigation. Il pourra également créer et modifier la carte accompagnant son panorama.
 Ce panorama ainsi créé sera stocké sous forme d’application web.
 
+## A QUOI CA RESSEMBLE ?
+
+![image demo](https://github.com/luvelut/VISITE-IUT/blob/main/pano.PNG) 
+
 ## CONTRAINTES
 
 * travail et répartition des tâches dans une __équipe__ de 5
+* élaboration du __cahier des charges__
 * gestion du __délais__
+* prise en compte de __l'expérience utilisateur__
 * gestion de la __portabilité__ (téléphone, ordinateur, casque VR)
 
 ## EQUIPE
